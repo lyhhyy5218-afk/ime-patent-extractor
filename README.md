@@ -209,7 +209,7 @@ print(response)
 ```bibtex
 @article{ime_patent_2026,
   title={基于IME三元组的专利创新景观构建与技术机会识别},
-  author={Jiyong Li},
+  author={liuyu},
   year={2026}
 }
 ```

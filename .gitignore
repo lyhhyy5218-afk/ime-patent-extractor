@@ -5,3 +5,9 @@ __pycache__/
 dist/
 build/
 .env
+yuanyi_rag_chroma/
+lora_data/
+lora_output/
+!lora_output/final/
+demo_results.json
+__pycache__/
